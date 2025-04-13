@@ -1,0 +1,76 @@
+(ht_insert 2) value, key, index: undulate, 79441765, 9
+(ht_insert 2) value, key, index: Similar, 168035026, 12
+(ht_insert 2) value, key, index: processors, 164495299, 0
+(ht_insert 2) value, key, index: universality, 240335993, 4
+(ht_insert 2) value, key, index: appropriately, 9387561, 6
+(ht_insert 2) value, key, index: processors, 164495299, 0
+(ht_insert 2) value, key, index: Similar, 168035026, 25
+(ht_insert 2) value, key, index: universality, 240335993, 17
+(ht_insert 2) value, key, index: undulate, 79441765, 9
+(ht_insert 2) value, key, index: appropriately, 9387561, 19
+(ht_insert 2) value, key, index: compilation, 4377646, 13
+(ht_insert 2) value, key, index: processors, 164495299, 0
+(ht_insert 2) value, key, index: undulate, 79441765, 35
+(ht_insert 2) value, key, index: Similar, 168035026, 25
+(ht_insert 2) value, key, index: universality, 240335993, 43
+(ht_insert 2) value, key, index: compilation, 4377646, 45
+(ht_insert 2) value, key, index: appropriately, 9387561, 51
+(ht_insert 2) value, key, index: finished, 5281892, 17
+(ht_insert 2) value, key, index: successfully, 221658361, 2
+(ht_insert 2) value, key, index: directory, 146464153, 37
+(ht_insert 2) value, key, index: in, 1790, 1
+(ht_insert 2) value, key, index: going, 7233607, 50
+(ht_insert 2) value, key, index: processors, 164495299, 0
+(ht_insert 2) value, key, index: in, 1790, 53
+(ht_insert 2) value, key, index: successfully, 221658361, 2
+(ht_insert 2) value, key, index: finished, 5281892, 69
+(ht_insert 2) value, key, index: Similar, 168035026, 25
+(ht_insert 2) value, key, index: undulate, 79441765, 35
+(ht_insert 2) value, key, index: directory, 146464153, 37
+(ht_insert 2) value, key, index: universality, 240335993, 43
+(ht_insert 2) value, key, index: compilation, 4377646, 45
+(ht_insert 2) value, key, index: going, 7233607, 50
+(ht_insert 2) value, key, index: appropriately, 9387561, 103
+(ht_insert 2) value, key, index: and, 26692, 39
+(ht_insert 2) value, key, index: addition, 179350062, 85
+target->value, target->key: processors, 164495299
+target->value, target->key: directory, 146464153
+target not found
+(ht_insert 2) value, key, index: example, 216549189, 27
+(ht_insert 2) value, key, index: nap, 29824, 97
+(ht_insert 2) value, key, index: dynamic, 201622419, 36
+(ht_insert 2) value, key, index: language, 139374837, 31
+(ht_insert 2) value, key, index: dmanages, 59014003, 1
+(ht_insert 2) value, key, index: space, 8021909, 6
+(ht_insert 2) value, key, index: safety , 159173568, 44
+(ht_insert 2) value, key, index: starting, 176794087, 16
+(ht_insert 2) value, key, index: implementations, 229034563, 47
+
+ht_list_entries => ht->size: 104
+0, processors, 164495299
+1, dmanages, 59014003
+2, successfully, 221658361
+6, space, 8021909
+16, starting, 176794087
+25, Similar, 168035026
+27, example, 216549189
+31, language, 139374837
+35, undulate, 79441765
+36, dynamic, 201622419
+37, directory, 146464153
+39, and, 26692
+43, universality, 240335993
+44, safety , 159173568
+45, compilation, 4377646
+47, implementations, 229034563
+50, going, 7233607
+69, finished, 5281892
+85, addition, 179350062
+103, appropriately, 9387561
+End
+
+
+------------------
+(program exited with code: 0)
+
+Press any key to continue . . .
